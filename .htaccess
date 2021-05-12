@@ -13,4 +13,8 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /digital-peers/index.php [L]
 </IfModule>
 
+<<<<<<< HEAD
 # END WordPress
+=======
+# END WordPress
+>>>>>>> 2af8b22446141653de18963b316d543eacd21fbc
