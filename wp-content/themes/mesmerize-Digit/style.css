@@ -1,0 +1,12 @@
+/*
+Theme Name: mesmerize-Digit
+Description: Theme enfant de mesmerize
+Author: Loona GAILLARD
+Author URI: https://www.wpserveur.net
+Template: mesmerize 
+Version: 0.1.0
+*/
+
+.coloured-nav ul.dropdown-menu.active-line-bottom > .current_page_item > a, .coloured-nav ul.dropdown-menu.active-line-bottom > .current-menu-item > a, .coloured-nav ul.dropdown-menu.default > .current_page_item > a, .coloured-nav ul.dropdown-menu.default > .current-menu-item > a, .fixto-fixed ul.dropdown-menu.active-line-bottom > .current_page_item > a, .fixto-fixed ul.dropdown-menu.active-line-bottom > .current-menu-item > a, .fixto-fixed ul.dropdown-menu.default > .current_page_item > a, .fixto-fixed ul.dropdown-menu.default > .current-menu-item > a {
+    background-color: 2px solid red; !important
+}

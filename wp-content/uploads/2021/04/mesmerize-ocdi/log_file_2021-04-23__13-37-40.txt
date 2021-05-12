@@ -1,0 +1,38 @@
+
+---Downloaded files---
+The import files for: Agency were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = http://loona-gaillard.fr/digital-peers
+Data file = /home/u690608483/domains/loona-gaillard.fr/public_html/digital-peers/wp-content/uploads/2021/04/mesmerize-ocdi/demo-content-import-file_2021-04-23__13-37-40.xml
+Widget file = /home/u690608483/domains/loona-gaillard.fr/public_html/digital-peers/wp-content/uploads/2021/04/mesmerize-ocdi/demo-widgets-import-file_2021-04-23__13-37-40.json
+Customizer file = /home/u690608483/domains/loona-gaillard.fr/public_html/digital-peers/wp-content/uploads/2021/04/mesmerize-ocdi/demo-customizer-import-file_2021-04-23__13-37-40.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+---Importing widgets---
+Zone de widgets de colonne latérale : 
+
+Rechercher - No Title - Widget already exists
+Articles récents - No Title - Widget already exists
+Commentaires récents - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Catégories - No Title - Widget already exists
+Méta - No Title - Widget already exists
+
+Pages Sidebar : 
+
+Rechercher - Search - Imported
+Pages - Pages - Imported
+Texte - Text Box - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
